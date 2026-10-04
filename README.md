@@ -23,7 +23,7 @@ Se quiser trocar uma ideia sobre Python, dados ou começar em tecnologia, é só
 
 <a href="https://github.com/Devsarahalves"><strong>GitHub</strong></a>  ·  <a href="https://instagram.com/_sarahsaantos_"><strong>Instagram</strong></a>
 <div align="center">
-  <a href="https://www.linkedin.com/in/SEU_USUARIO_LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/sarah-alves-325028402/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:dev.sarahalves@gmail.com">
